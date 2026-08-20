@@ -3,9 +3,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=about.me)](https://your-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github)](https://github.com/abdullahdev69-bot)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail)](mailto:abdullah.dev69@gmail.com)
-[![CV](https://img.shields.io/badge/📄_CV-FFD700?style=flat-square)](link-to-your-cv.pdf)
+
 
 ---
 
